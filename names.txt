@@ -2,3 +2,6 @@ spark
 scala
 git
 docker
+hadoop
+hive
+sqoop
