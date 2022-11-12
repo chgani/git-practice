@@ -1,0 +1,4 @@
+spark
+scala
+git
+docker
